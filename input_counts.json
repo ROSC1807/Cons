@@ -1,0 +1,43 @@
+{
+  "history_minutes": [
+    {
+      "bucket_start_utc": "2026-03-24T16:22:00+00:00",
+      "keyboard_presses": 52,
+      "mouse_clicks_left": 29,
+      "mouse_clicks_middle": 1,
+      "mouse_clicks_right": 26,
+      "mouse_clicks_total": 56
+    },
+    {
+      "bucket_start_utc": "2026-03-25T05:44:00+00:00",
+      "keyboard_presses": 11,
+      "mouse_clicks_left": 14,
+      "mouse_clicks_middle": 0,
+      "mouse_clicks_right": 1,
+      "mouse_clicks_total": 15
+    },
+    {
+      "bucket_start_utc": "2026-03-25T05:45:00+00:00",
+      "keyboard_presses": 0,
+      "mouse_clicks_left": 4,
+      "mouse_clicks_middle": 0,
+      "mouse_clicks_right": 1,
+      "mouse_clicks_total": 5
+    }
+  ],
+  "keyboard_presses": 502,
+  "last_event_at_utc": "2026-03-25T05:45:05+00:00",
+  "mouse_clicks_left": 298,
+  "mouse_clicks_middle": 1,
+  "mouse_clicks_right": 43,
+  "mouse_clicks_total": 342,
+  "schema_version": 2,
+  "session_keyboard_presses": 11,
+  "session_mouse_clicks_left": 18,
+  "session_mouse_clicks_middle": 0,
+  "session_mouse_clicks_right": 2,
+  "session_mouse_clicks_total": 20,
+  "session_started_at_utc": "2026-03-25T05:44:25+00:00",
+  "started_at_utc": "2026-03-06T13:25:20+00:00",
+  "updated_at_utc": "2026-03-25T05:45:05+00:00"
+}
